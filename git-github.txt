@@ -5,3 +5,11 @@ O QUE É GIT.
 	Um dos pontos mais fascinantes do Git são as chamadas Branch, onde nela você pode ter uma versão do seu trabalho sem alterar ou modificar a Branch “Oficial” do trabalho, onde nela você faz todas as suas alterações e caso você cometa um erro ou mesmo dele o projeto, isso ocorreu só na sua Branch enquanto a to “Trabalho Oficial” continua la, isso e bastante interessante quando se trabalha com um projeto grande e com outras pessoas, onde cada um pode fazer alterações e testes na sua própria Branch e depois uni-las no projeto final.
 	
 	Portanto Git e uma ferramenta muito importante e que veio para facilitar para quem desenvolve e trabalha e m projeto de equipe, proporcionando ao trabalho uma segurança muito maior, e contrubuindo para o sucesso da equipe. 
+
+O QUE É GITHUB. 
+
+	O github pode se dizer que é uma ferramenta disponibilizada na web para hospedagem controle de versão de projetos utilizando o Git. Ele é bastante utilizado pois permite que varias pessoas possam desenvolver e contribuir com os projetos que la estão, se for privado apenas os membros cadastrados no projeto, já se for aberto (OpenSource) qualquer usuário poderá contribuir e isso permite com uma disseminação grande de conhecimento e compartilhamento de informações.
+	
+	Ele tem diversas funcionalidades, uma delas que eu acho essencial e o gráfico que mostra como as pessoas do projeto estão contribuindo para desenvolvimento do mesmo e nas diferentes versões do trabalho. Além disso ele funciona quase que como uma rede para desenvolvedores onde você pode hospedar seus projetos la e ficarem na nuvem, bem como quando se trata de código aberto você pode relatar erros, ou mesmo encontrar diversos projetos e códigos fontes que poderão lhe ajudar em determinadas atividades. 
+	
+	Portanto Github é outra ferramenta essencial e muito boa para desenvolvedores, tendo em vista que la você pode armazenar seus projetos e contar com a contribuição de seus parceiros para desenvolvimento dos projetos e controle de versoes usando o Git. 
