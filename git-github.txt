@@ -1,0 +1,7 @@
+O QUE É GIT. 
+
+	Eu pude compreender que o Git é uma ferramenta de controle de versão de arquivos, com ele varias pessoas podem participar do desenvolvimento de um projeto ao mesmo tempo, criando arquivos, editando arquivos ou mesmo deletando arquivos, sem que isso afete ou atrapalhe o andamento do projeto, tendo em vista que uma boa utilização dessa ferramenta permite que os participantes possam fazer sua parte sem comprometer a de outra pessoa. O Git permite que duas pessoas editem o mesmo arquivo simultaneamente, com essa sua ideia de controle de versão onde cada um faz sua parte e depois essas partes são mescladas sobre aval do próprio Git.  
+	
+	Um dos pontos mais fascinantes do Git são as chamadas Branch, onde nela você pode ter uma versão do seu trabalho sem alterar ou modificar a Branch “Oficial” do trabalho, onde nela você faz todas as suas alterações e caso você cometa um erro ou mesmo dele o projeto, isso ocorreu só na sua Branch enquanto a to “Trabalho Oficial” continua la, isso e bastante interessante quando se trabalha com um projeto grande e com outras pessoas, onde cada um pode fazer alterações e testes na sua própria Branch e depois uni-las no projeto final.
+	
+	Portanto Git e uma ferramenta muito importante e que veio para facilitar para quem desenvolve e trabalha e m projeto de equipe, proporcionando ao trabalho uma segurança muito maior, e contrubuindo para o sucesso da equipe. 
