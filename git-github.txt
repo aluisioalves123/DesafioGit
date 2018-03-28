@@ -1,0 +1,5 @@
+O QUE É GIT
+
+GIT é uma ferramenta que controla versões de arquivos de projetos. Todos os membros de determinado projeto tem acesso aos arquivos e podem modificá-los, remover ou adicionar novos. 
+
+O papel principal do GIT é gerenciar essas modificações, de modo que todos possam contribuir simultaneamente sem que a colaboração de algum membro seja interferida pela contribuição de outro. Além disso, tem outra função importante, que é manter os arquivos salvos em um servidor remoto. Dessa forma não há risco de perder todo o projeto por causa de um problema técnico com os computadores dos desenvolvedores.
