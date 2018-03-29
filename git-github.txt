@@ -1,2 +1,5 @@
 O QUE É GIT
 O git é uma ferramenta que facilita o trabalho em conjunto possibilitando o compartilhamento de codigos. Na forma de um terminal ele permite que multiplos desenvolvedores trabalhem num mesmo projeto ,oferecendo um maior controle por meio de compartilhamento de arquivos , mostrando as alterações realizadas , permitindo a recuperação de arquivos para versões anteriores e o gerenciamento dos arquivos selecionados.
+
+O QUE É O GIT-HUB
+O git-hub é uma especie de "rede-social" ,onde é possivel armazenar seus codigos, compartilha-los e ver projetos de outros desenvolvedores da comunidade open-source, dessa maneira te permitindo a evoluir de maneira mais fluida e rapida 
