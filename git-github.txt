@@ -1,0 +1,2 @@
+O QUE É GIT
+O git é uma ferramenta que facilita o trabalho em conjunto possibilitando o compartilhamento de codigos. Na forma de um terminal ele permite que multiplos desenvolvedores trabalhem num mesmo projeto ,oferecendo um maior controle por meio de compartilhamento de arquivos , mostrando as alterações realizadas , permitindo a recuperação de arquivos para versões anteriores e o gerenciamento dos arquivos selecionados.
