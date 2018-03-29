@@ -1,2 +1,4 @@
 O QUE É GIT
 	Entendi que git é uma plataforma onde vários desenvolvedores podem trabalhar simultaneamente, de forma a organizar o trabalho e evitar problemas com atualizações de versões do projeto ocorram. O projeto pode ser dividido em branches, onde cada desenvolvedor pode trabalhar sem interferir no trabalho do outro, quando ele termina seu trabalho simplesmente concatena sua contribuição ao master e o resto do time tem acesso instantaneo ao que foi feito utilizando uns poucos comandos para atualizar localmente.
+O QUE É GITHUB
+	Entendi que github é onde eu posso armazenar o projeto que está sendo trabalhado no git.
