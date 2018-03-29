@@ -1,0 +1,29 @@
+Conte um pouco sobre você
+ 
+ O que você gosta de fazer nas horas vagas?
+ 
+	Gosto de jogar, dormir, sair com a galera, assistir
+
+ O que te agrada numa atividade?
+
+	Me sentir totalmente inserido nela, perder a noção do tempo(interessado) e que existem problemas no mundo "normal"
+ 	
+ O que te estressa numa atividade?
+
+	Sentir que não estou fazendo nada de muito proveitoso, seja em relação a eu mesmo, seja em relação à tarefa.
+ 
+ Por que você escolheu seu curso?
+	
+	Escolhi Engenharia de Computação por me interessar pelos assuntos abordados, desde como o hardware funciona e se comunica em baixo nível até desenvolvimento de softwares e automatizar aparelhos e atividades. É muito surreal sentir que você tem conhecimento pra fazer	tudo isso ou simplesmente entender oq se passa por baixo dos panos.
+ 
+-Por que você escolhei a GTi?
+
+	Escolhi a GTi pq senti que precisava da experência que isso ia me fornecer, me fazer passar, enfim. Acredito que a experiência de trabalhar desenvolvendo produtos reais pra clientes reais, ser cobrado, entrar em uma diretoria, aprender como tudo funciona em uma empresa é algo que só a GTi poderia me oferecer no momento. 
+ 
+ O que você está achando do processo seletivo?
+
+	O processo seletivo está sendo muito massa, desde a dinâmica em grupo até agora. A temática espacial e a maneira q isso foi utilizado me deixou muito feliz, pois tornou tudo bem mais interessante. Vocês conseguiram tornar algo q eu morria de medo, aprender git, em algo interessante, fácil e até divertido.
+
+
+*** Suba no github ***
+
