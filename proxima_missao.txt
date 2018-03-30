@@ -1,0 +1,36 @@
+ - Conte um pouco sobre você
+
+ 	Me considero um pessoa que gosta de desafios, proativa e sempre 
+ 	disposta cumprir as atividades pelas quais sou responsável.
+
+ - O que você gosta de fazer nas horas vagas?
+
+ 	Ficar com a minha família, ler, assistir filmes e séries e dormir.
+
+ - O que te agrada numa atividade?
+
+ 	Comprometimento, proatividade e trabalho em equipe.
+
+ - O que te estressa numa atividade?
+
+ 	Falta de compromisso, pessimismo e irresponsabilidade.
+
+ - Por que você escolheu seu curso?
+
+ 	Gosto de construir coisas e também de tecnologia, como ela tem o poder 
+ 	de mudar a sociedade. O curso une esses dois tópicos, pois Engenharia de
+ 	Computação é a construção de novas tecnologias.
+ 
+ - Por que você escolhei a GTi?
+
+ 	Para poder me desenvolver pessoal e profissionalmente, ao mesmo tempo 
+ 	contribuir com o desenvolvimento e bom funcionamento da empresa.
+
+ - O que você está achando do processo seletivo?
+
+ 	Estou gostando bastante. As atividades são bem interessantes e realmente
+ 	trabalham todos apectos essenciais para o desenvolvimento pessoal e 
+ 	profissional
+
+*** Suba no github ***
+
