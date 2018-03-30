@@ -1,0 +1,10 @@
+O QUE É GIT?
+
+Git é um sistema de controle de versão de arquivos, em que é possível
+desenvolver projetos com a contribuição simultânea de diversas pessoas, 
+possibilitando a criação, edição e compartilhamento de arquivos, sem 
+correr o risco de que as alterações feitas sejam sobrescritas.
+
+Uma das principais funcionalidades do Git é a possibilidade de um
+arquivo seja editado por mais de uma pessoa ao mesmo tempo, isso
+sem nenjum prejuízo ao conteúdo do arquivo.
