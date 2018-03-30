@@ -1,0 +1,3 @@
+O QUE É GIT
+Ferramemta utilizada por desenvolvedor para controle de versões, sistema de controle 
+de branches, o que pode acelerar o processo de desenvolvimento.
