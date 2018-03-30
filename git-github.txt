@@ -1,3 +1,3 @@
-O QUE É GIT
-Ferramemta utilizada por desenvolvedor para controle de versões, sistema de controle 
-de branches, o que pode acelerar o processo de desenvolvimento.
+O que é github
+Plataforma onde a comunidade de TI pode contribuir com seus trabalhos dando suporte
+a pessoas que estão desenvolvendo trabalhos semelhantes.
