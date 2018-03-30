@@ -8,3 +8,11 @@ correr o risco de que as alterações feitas sejam sobrescritas.
 Uma das principais funcionalidades do Git é a possibilidade de um
 arquivo seja editado por mais de uma pessoa ao mesmo tempo, isso
 sem nenjum prejuízo ao conteúdo do arquivo.
+
+O QUE É GITHUB?
+
+GitHub é basicamente um "site", para que você possa guardar seus 
+códigos, um lugar para hospedar os seus projetos. Além de possuir 
+algumas funções extras aplicadas ao Git, também é possível ter 
+acesso a outros projetos opensource e poder contribuir com os 
+mesmos.
