@@ -3,3 +3,8 @@ Git é um sistema de controle de versão de arquivos.Através deles podemos
 desenvolver diversos projetos com varios programadoresque  podem contribuir simultaneamente no mesmo,
 editando e criando novos arquivos e permitindo que essas alterações existão sem o risco 
 de alterações serem sobrescritas.
+O que é github
+O Github é um serviço web que oferece diversas funcionalidades extras aplicadas ao git. 
+Com uso gratuito do github podemos hospedar seus projetos pessoais.
+ Além disso, quase todos os projetos/frameworks/bibliotecas sobre desenvolvimento open
+ source estão no github.Facilitando ao desenvolvimento entre os progamadores.
