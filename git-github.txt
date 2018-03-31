@@ -12,4 +12,15 @@
 |funcionalidades.                              |
 |----------------------------------------------|
 
-
+||||||||||||||| O QUE É O GITHUB? ||||||||||||||
+|----------------------------------------------|
+|O github é uma comunidade de programadores    | 
+|onde é possível armazenar seus repositorios do|
+|git local, em um repositorio online, ou seja, |
+|é uma grande ferramenta que aumentar ainda    |
+|mais o valor do git. Além disso, ele também   |
+|permite que você compartilhe seus código com  |
+|outros programadores para que possam          |
+|reutilizar suas soluções e também contribuir  |
+|para o desenvolvimento do projeto.            |
+|----------------------------------------------|
