@@ -1,12 +1,17 @@
-1)O que você gosta de fazer nas horas vagas?
-	Jogar basquete e conversar com a namorada.
-2)O que te agrada numa atividade?
-	Sentimento de aprendizado e satisfação.
-3)O que te estressa numa atividade?
-	Depende. Pode ser quando nao to conseguindo fazer aquilo que quero.
-4) Por que você escolheu seu curso?
-	Gosto de novas tecnologias, acho um curso bem promissor e quem sabe um dia posso ta em um projeto de um satélite.
-5)Por que você escolheu a GTi?
-	Pelo o que posso aprender na GTi.
-6) O que você está achando do processo seletivo?
-	Muito bom. 
+Conte um pouco sobre você
+ 
+ O que você gosta de fazer nas horas vagas?
+ Ficar com a namorada, jogar basquete e assistir NBA.
+ O que te agrada numa atividade?
+ Sentimento de aprendizado.
+ O que te estressa numa atividade?
+ Quando não alcanço meus objetivos.	
+ Por que você escolheu seu curso?
+ Gosto de novas tecnologias, acho um curso promissor e quem sabe um dia posso participar de projetos de satélites.
+-Por que você escolhei a GTi?
+ Pelo o que posso aprender na GTi e pelo sentimento empreendedor.
+ O que você está achando do processo seletivo?
+Muito bom.
+
+*** Suba no github ***
+
