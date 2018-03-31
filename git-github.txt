@@ -1,0 +1,9 @@
+O QUE É GIT
+
+É um software livre de sistema de controle de arquivos, em que vários desenvolvedores podem contribuir e modificar os arquivos. 
+A sua característica principal é que diferentes pessoas podem trabalhar em um mesmo projeto sem precisar excluir o progresso de outras, somente somando informações. 
+
+O seu grande diferencial é que ele trata os dados com um conjunto de snapchots, ou seja, é como se ele salvasse um "retrato" dos seus dados, o que faz com que o sistema fique muito mais eficiente e rápido.
+
+
+
