@@ -1,0 +1,15 @@
+|||||||||||||||| O QUE É O GIT? ||||||||||||||||
+|----------------------------------------------|
+|GIT é uma ferramenta de versionamento         | 
+|que ajuda no desenvolvimento quando           |
+|queremos fazer alterações em nosso código     |
+|sem perder o código antigo, podendo           |
+|voltar como era antes e, além disso,          |
+|facilita o trabalho em equipe, pois ele       |
+|ajuda para que os desenvolvedores façam       |
+|a mesclagem correta de seus arquivos através  |
+|da criação de ramificações e também outras    |
+|funcionalidades.                              |
+|----------------------------------------------|
+
+
