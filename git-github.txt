@@ -1,2 +1,7 @@
 O QUE É GIT
+
 O git nada mais é do que uma espécie de programa que permite aos programadores desenvolverem projetos em que diversas pessoas podem contribuir simultaneamente, ou seja, vários participantes podem editar ao mesmo tempo o arquivo sem risco de suas alterações serem perdidas ou alteradas. Isso é feito com o auxilio de "branchs" que nada mais são do que uma maneira de editar um projeto sem ter que externar para os demais programadores, nos branchs é utilizada uma cópia do arquivo para que você edite até concluir seu objetivo.
+
+O que é github
+
+O github será a maneira com que os códigos serão compartilhados, ou seja, pode se entender que o github funciona como uma espécie de rede social dos programadores, em que se torna possivel o compartilhamento de código. Em alguns casos os programadores podem auxiliar outros companheiros procurando os erros em projetos que estão em desenvolvimento e disponiveis nessa plataforma. Sendo assim, pode se afirmar que essa rede social é uma maneira de ajudar as pessoas que trabalham com esse mundo da programação a se desenvolverem. 
