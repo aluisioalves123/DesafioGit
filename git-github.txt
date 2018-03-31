@@ -3,4 +3,4 @@ Git é uma ferramente de controle de versão, que permite que o usuário possa a
 
 O que é github?
 É uma plataforma web que facilita a utilização do conceito de Git, onde o grupo tem acesso a uma interface gráfica e n outras ferramentas que permitem que o controle dessa versão seja mais bem feito, ainda proporcionando um nicho social entre os desenvolvedores fazendo parte de um espirito colaborativo
-.
+
