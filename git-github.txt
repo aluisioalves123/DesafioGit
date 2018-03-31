@@ -1,0 +1,2 @@
+O QUE É GIT
+O Git é um sistema de controle distribuído gratuito. Ele possui código e é projetado para lidar com todos os tipos de projetos. 
