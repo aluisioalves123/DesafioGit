@@ -1,0 +1,2 @@
+O que é GIT?
+Git é uma ferramenta de controle de versionamento que permite o usuário salvar seus projetos em diferentes estágios e gerenciar as diferentes versões salvas. Também facilita bastante o trabalho de uma equipe de desenvolvedores que está trabalhando em cima de um mesmo projeto, pois o GIT permite que todos trabalhem na edição de suas funcionalidades separadamente, sem realizar modificações no arquivo "Master", que seria o arquivo principal do projeto.
