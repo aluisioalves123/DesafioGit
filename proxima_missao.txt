@@ -1,17 +1,28 @@
 Conte um pouco sobre você
  
  O que você gosta de fazer nas horas vagas?
+	
+	Ler livros de ficcção/romance/mistério.
+	Jogar games de rpg.
  
  O que te agrada numa atividade?
+	
+	A possibilidade de testar meus conhecimentos e aprender simultaneamente.
  
  O que te estressa numa atividade?
+	
+	Objetivos não muito claros.
  
  Por que você escolheu seu curso?
+	
+	Porque sempre gostei da área de informática e sempre tive dúvidas quanto o funcionamento dos hardwares.
  
--Por que você escolhei a GTi?
+-Por que você escolheu a GTi?
+	
+	Busco desenvolver capacidades/habilidades/atitudes que a grade curricular do curso por si só não garante.
  
  O que você está achando do processo seletivo?
 
-
+	Bem descontraído e estimulante.
 *** Suba no github ***
 
