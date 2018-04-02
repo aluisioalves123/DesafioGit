@@ -1,0 +1,5 @@
+O QUE É GIT 
+
+ 
+
+O GIT é um sistema de controle de versão distribuido (sistema que gerencia todas as alterações realizadas em um arquivo ou conjunto de arquivos com o passar do tempo). Por ser isso, é permitido ter acesso a versões anteriores, e assim, poder corrigí-las, ou não. Outra vantagem é que ele permite que várias outras pessoas trabalhem simultaneamente no mesmo projeto, sem que haja conflito ou bagunça com os arquivos desse projeto. Deve-se conter um repositório, que é uma espécie de servidor central, para onde irão os dados do projeto por padrão; deverão haver também as estações de trabalho, que é onde os programadores trabalharão naquele sistema. Cada estação deverá ter a versão própria e o repositório deverá conter as versões de todos as estações. No Git, existe o diferencial que todos as estações também terão todas as versões; isso é o que faz o GIT ser um sistema de controle de versão DISTRIBUIDO.  
