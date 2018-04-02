@@ -1,2 +1,4 @@
 O que é git
 Git é uma plataforma de controle de versão que permite, a edição de um código de forma segura e controlada
+O que é github
+Github é uma plataforma de compartilhamento de código, que permite que desenvolvedores encontrem, compartilhe  e formen grupos de desenvolvimento.
