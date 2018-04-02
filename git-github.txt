@@ -1,3 +1,7 @@
 O QUE É GIT
 
 Git é um sistema de controle de versão distŕibuído. É uma espécie de máquina do tempo para o desenvolvimento. Tal sistema nos permite trabalhar simultaneamente com outros desenvolvedores nos garantindo certa praticidade e segurança. Porém a principal utilidade desse sistema é a possibilidade de "passear" pelas alterações realizadas em um projeto, nos permitindo trabalhar no mesmo projeto, mas com várias ramificações desse projeto.
+
+O QUE É GITHUB
+
+Github é um site que oferece um serviço de armazenagem de repositórios do git. 
