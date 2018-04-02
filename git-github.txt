@@ -1,2 +1,5 @@
 O que é GIT?
 Git é uma ferramenta de controle de versionamento que permite o usuário salvar seus projetos em diferentes estágios e gerenciar as diferentes versões salvas. Também facilita bastante o trabalho de uma equipe de desenvolvedores que está trabalhando em cima de um mesmo projeto, pois o GIT permite que todos trabalhem na edição de suas funcionalidades separadamente, sem realizar modificações no arquivo "Master", que seria o arquivo principal do projeto.
+
+O que é GitHub?
+GitHub é uma plataforma online que acrescenta algumas funcionalidades relacionadas ao GIT. A principal função é o armazenamento gratuito dos projetos em um servidor. O GitHub é como uma "rede social" de desenvolvedores, onde você pode acompanhar o desenvolvimento de projetos de terceiros e compartilhar suas contribuições.
