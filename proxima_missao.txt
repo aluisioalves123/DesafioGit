@@ -1,17 +1,23 @@
 Conte um pouco sobre você
  
  O que você gosta de fazer nas horas vagas?
- 
+ 	Gosto de assistir séries e filmes, ler sobre novidades tecnológicas, programar, pensar sobre a vida e jogar games de estratégia.
+
  O que te agrada numa atividade?
+ 	Ambiente limpo e organizado, diversão, risadas e boas companhias.
  
  O que te estressa numa atividade?
- 
+ 	Muito barulho desnecessário, desorganização e pessoas sem foco na atividade.
+
  Por que você escolheu seu curso?
+ 	Descobri que adoro programar, me identifiquei bastante com as disciplinas e acho a profissão de engenheiro incrível.
  
--Por que você escolhei a GTi?
+Por que você escolhei a GTi?
+	Porque eu quero crescer junto com a empresa, aprender e poder retribuir com meu esforço e dedicação, promovendo o crescimento da empresa.
+
  
  O que você está achando do processo seletivo?
-
+ 	O processo seltivo até agora foi cheio de experiências novas e bastante enriquecedor. Sobre o trainee estou bastante ancioso para as próximas capacitações e desafios.
 
 *** Suba no github ***
 
