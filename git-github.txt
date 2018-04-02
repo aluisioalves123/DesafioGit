@@ -1,0 +1,2 @@
+O que é git
+Git é uma plataforma de controle de versão que permite, a edição de um código de forma segura e controlada
