@@ -1,0 +1,4 @@
+"O QUE É GIT?"
+É um sistema para gerenciar o trabalho de varios membros que trabalham em um mesmo projeto,auxiliando para que nenhum sobreponha seus feitos em um trabalho alheio e que a integração/mesclagem seja facilitada para todos os membros.
+"O QUE E GITHUB?""
+É uma plataforma para hopedar projetos da equipe, além de hospedar inumeros outros projetos de outrem para uma talvez conversasão para o projeto atual da equipe com outras pessoas e assim ocorrer uma integrassão externa da própria empresa.
